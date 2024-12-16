@@ -1,0 +1,41 @@
+﻿body {
+    background-color: #030303;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: #faf7f7;
+    text-align: center;
+}
+
+h1 
+{
+    text-align: center;
+    color: #0000FF;
+}
+
+img {
+    width: 200px;
+    border-radius: 35%;
+    border: 2px solid #0000FF;
+}
+
+ul 
+{
+    list-style-type: disc;
+    margin: 20px auto;
+    padding: 0;
+    max-width: 300px;
+    text-align: left;
+}
+
+a 
+{
+    display: inline-block;
+    margin-top: 10px;
+    color: #0000FF;
+    text-decoration: none;
+}
+
+    a:hover 
+    {
+        text-decoration: underline;
+    }
